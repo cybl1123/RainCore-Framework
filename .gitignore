@@ -5,6 +5,7 @@
 .utmp/
 .plastic/
 .vsconfig
+.vs/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
